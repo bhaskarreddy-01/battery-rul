@@ -1,4 +1,4 @@
-#Battery RUL Prediction using IPSO-PF
+Battery RUL Prediction using IPSO-PF
 
 This project implements a hybrid approach for **Remaining Useful Life (RUL)** prediction of lithium-ion batteries using:
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python main.py
@@ -58,7 +58,7 @@ python main.py
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 The code generates the following figures:
 
