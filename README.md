@@ -138,7 +138,6 @@ Comparison is performed between:
 
 * Ensure NASA `.mat` files are placed correctly (or synthetic data fallback is implemented).
 * The `synthetic_battery()` function must be defined if real data is not available.
-* This project focuses on research-level implementation rather than production deployment.
 
 ---
 
